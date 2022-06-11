@@ -34,3 +34,19 @@ codesandbox 선생님 주소: https://codesandbox.io/s/class06-3qikei
 - BE DEV : 사용자가 보지 못하는 영역에서 데이터처리
   - 서버에서 처리되는 언어를 사용해서 개발
   - jave , PHP , Python , nodejs
+
+## naming 표기법
+- naming하는 경우
+  - HTML/CSS : id, class
+  - js : 변수, 함수
+  - 파일, 폴더 
+
+- 표기법의 의미
+  - 2단어 이상을 조합하여 naming을 할 때 단어와 단어 사이를 구분해야함
+  
+- 표기법의 종류
+  - section_content : snake case - 파일, 폴더
+  - section-content : kebab case - id , class
+  - sectionContent : camel case - js (변수)
+  - SectionContent : pascal case - js의 Class
+
