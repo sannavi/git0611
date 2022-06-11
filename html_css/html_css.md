@@ -27,6 +27,11 @@
 <tag...> Empty Element
 
 ```
+## HTML Basic Structure
+
+### Head
+
+### Boby
 
 ## HTML Contents
 
@@ -43,7 +48,9 @@
 #### hyper link (하이퍼링크)
 
 
-### Media
+### Media 
+#### image(이미지)
+#### video(영상)
 ## HTML Structure
 ### Semantic
 ### Layout
