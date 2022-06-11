@@ -1,20 +1,20 @@
 # HTML
 
--Contents
+- Contents
   - Text
   - Media
     - Image, Video , Audio
 
--Structure
-  -Semantic : 의미있는 구조
-  -Layout 
+- Structure
+  - Semantic : 의미있는 구조
+  - Layout 
 
   ## HTML basic
 
 - HTML : hyper text markup language
   - hyper text :하이퍼 링크로 연결된 문서 => 웹페이지(컨텐츠 , 구조)
-  -markup : 표시
-  -language : 언어  
+  - markup : 표시
+  - Language : 언어  
 
 - HTML 문법
   - 명칭 : Tag / Element
@@ -47,8 +47,8 @@
   - HTML5 표준
 
 ### Head - 웹사이트 기본정보
--meta : 웹사이트의 관련 정보(검색엔진)
--title : 웹사이트 제목 (탭에 표시되는 제목)
+- meta : 웹사이트의 관련 정보(검색엔진)
+- title : 웹사이트 제목 (탭에 표시되는 제목)
 
 
 ### Boby - 웹사이트 컨텐츠
