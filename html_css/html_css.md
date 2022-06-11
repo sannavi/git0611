@@ -41,7 +41,7 @@
   <body></body>
 </html>
 ```
-### DOCTYPE
+### DOCTYPE 
 - HTML 문서 타입
   - HTML 버전
   - HTML5 표준
@@ -51,8 +51,8 @@
 -title : 웹사이트 제목 (탭에 표시되는 제목)
 
 
-
 ### Boby - 웹사이트 컨텐츠
+- 웹사이트에 contents, structure... 표시하는 모든 태그
 
 ## HTML Contents
 
