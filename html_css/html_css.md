@@ -27,11 +27,32 @@
 <tag...> Empty Element
 
 ```
+
+
+
 ## HTML Basic Structure
 
-### Head
+```
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body></body>
+</html>
+```
+### DOCTYPE
+- HTML 문서 타입
+  - HTML 버전
+  - HTML5 표준
 
-### Boby
+### Head - 웹사이트 기본정보
+-meta : 웹사이트의 관련 정보(검색엔진)
+-title : 웹사이트 제목 (탭에 표시되는 제목)
+
+
+
+### Boby - 웹사이트 컨텐츠
 
 ## HTML Contents
 
